@@ -1,4 +1,4 @@
-### 1. Write a program that uses printf to display the following picture
+### 1. Write a program that uses printf to display the following
 
 ```
        *
@@ -10,7 +10,7 @@
 ```
 
 ### 2. Write a program that computes the volume of sphere with 10-meter radius
-v = 4/3 (pi * r^3)
+`v = 4/3 (pi * r^3)`
 
 ### 3. Rewrite the above program to ask for radius interger
 ### 4. Write a program to enter dollar-and-cent amount the print amount with 5% tax added
