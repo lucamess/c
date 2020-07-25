@@ -1,13 +1,13 @@
 ### 1. Write a program that uses printf to display the following picture
 
-`
+```
        *
       *
      *
 *   *
  * *
   *
-`
+```
 
 ### 2. Write a program that computes the volume of sphere with 10-meter radius
 v = 4/3 (pi * r^3)
